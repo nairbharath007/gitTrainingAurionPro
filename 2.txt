@@ -1,1 +1,2 @@
 This is 2.txt
+Modified 2.txt in master as v6
